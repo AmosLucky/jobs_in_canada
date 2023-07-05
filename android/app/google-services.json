@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1097700158586",
+    "project_id": "jobs-in-canada-bc85f",
+    "storage_bucket": "jobs-in-canada-bc85f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097700158586:android:178cf8008bc338f1409fc3",
+        "android_client_info": {
+          "package_name": "com.casoftech.jobs_in_canada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097700158586-v9lprf85te1q2d85h52tgkr6kfej2334.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_C5Zf_wyDOVAkAYAP8NGyM90UqTgn-KY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097700158586-v9lprf85te1q2d85h52tgkr6kfej2334.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097700158586-m8s0v08cmtch74ft5flrg32u29s4te6n.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jobsInCanada.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
