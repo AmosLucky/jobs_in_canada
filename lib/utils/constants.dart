@@ -23,7 +23,7 @@ double appVersion = 2.0;
 String adType = "admob";
 
 String appUrl =
-    "https://play.google.com/store/apps/details?id=com.example.jobs_in_canada";
+    "https://play.google.com/store/apps/details?id=com.casoftech.jobs_in_canada";
 String shareContent =
     "*Workers needed in Canada 🇨🇦, USA 🇺🇸,Mexico 🇲🇽,Australia 🇦🇺 Salary from \$10,000 - \$100,000* \n" +
         appName +
