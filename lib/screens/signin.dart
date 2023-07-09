@@ -9,7 +9,6 @@ import '../repos/user_repo.dart';
 import '../utils/assets.dart';
 import '../utils/colors.dart';
 import '../utils/dimensions.dart';
-import '../widgets/show_facebook_banner.dart';
 import '../widgets/opacity_bg.dart';
 import '../widgets/roundbutton.dart';
 import '../widgets/text_input.dart';

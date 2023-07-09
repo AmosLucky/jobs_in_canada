@@ -3,12 +3,10 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import '../repos/ads_manager.dart';
 import '../repos/user_repo.dart';
-import '../screens/welcome.dart';
 import '../utils/assets.dart';
 import '../utils/constants.dart';
 
 import '../repos/firebase_messaging.dart';
-import '../repos/general_repo.dart';
 import '../widgets/opacity_bg.dart';
 
 class SplashScreen extends StatefulWidget {
