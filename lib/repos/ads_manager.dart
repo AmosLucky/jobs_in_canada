@@ -39,6 +39,10 @@ class Adverts {
         showBannerAd = body["show_banner_ad"];
         per_post = body["per_page"];
         adType = body["ad_type"];
+        AdsIds.admobRewardeAd = body["admob_rewarded"];
+        AdsIds.admobInterstitial = body["admob_interstitial"];
+
+        AdsIds.admobBannerAd = body["admob_banner"];
         //currentAppVersion = body["current_version"];
       } else {
         showCount = 3;
