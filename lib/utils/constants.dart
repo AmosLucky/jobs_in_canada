@@ -19,7 +19,7 @@ int per_post = 5;
 bool showBannerAd = false;
 InterstitialAd? interstitialAd;
 RewardedAd? rewardedAd;
-double appVersion = 2.0;
+double appVersion = 3.0;
 String adType = "admob";
 
 String appUrl =
